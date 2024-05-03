@@ -34,7 +34,7 @@ const Navbar = () => {
         </div>
 
         <div className="center">
-            <Link className="link" to="/">SHOESTOP</Link>
+            <Link className="link" to="/"><img src="/img/SHOESTOP.png" alt="" className='logo'/></Link>
         </div>
 
         <div className="right">
